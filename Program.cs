@@ -28,7 +28,7 @@ namespace MadLibs
                 Console.Write("Enter the main character's name: ");
                 string name = Console.ReadLine();
 
-                // Ask user to provide 3 adjctives
+                // Ask user to provide 3 adjectives
                 Console.Write("How are you feeling? ");
                 string feeling = Console.ReadLine();
 
